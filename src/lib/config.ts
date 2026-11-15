@@ -25,4 +25,4 @@ export function revenueCatKey(): string | undefined {
 
 // Required by Apple for subscription apps. Replace with your real pages before submitting.
 export const TERMS_URL = 'https://www.apple.com/legal/internet-services/itunes/dev/stdeula/';
-export const PRIVACY_URL = 'https://krishnakhandagale.github.io/personal/privacy.html';
+export const PRIVACY_URL = 'https://krishnakhandagale.github.io/papercrane/privacy.html';
