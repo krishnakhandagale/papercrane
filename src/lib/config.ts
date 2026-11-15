@@ -1,6 +1,6 @@
 import { Platform } from 'react-native';
 
-export const APP_NAME = 'Doc Scanner';
+export const APP_NAME = 'Papercrane';
 
 /** RevenueCat entitlement identifier (create it in the RevenueCat dashboard with this exact id). */
 export const ENTITLEMENT_ID = 'pro';
@@ -25,4 +25,4 @@ export function revenueCatKey(): string | undefined {
 
 // Required by Apple for subscription apps. Replace with your real pages before submitting.
 export const TERMS_URL = 'https://www.apple.com/legal/internet-services/itunes/dev/stdeula/';
-export const PRIVACY_URL = 'https://example.com/privacy';
+export const PRIVACY_URL = 'https://krishnakhandagale.github.io/personal/privacy.html';

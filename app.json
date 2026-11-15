@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "Doc Scanner",
+    "name": "Papercrane",
     "slug": "doc-scanner",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -33,7 +33,7 @@
       [
         "expo-image-picker",
         {
-          "photosPermission": "Allow Doc Scanner to import photos of documents from your library.",
+          "photosPermission": "Allow Papercrane to import photos of documents from your library.",
           "cameraPermission": false,
           "microphonePermission": false
         }
@@ -41,7 +41,7 @@
       [
         "react-native-document-scanner-plugin",
         {
-          "cameraPermission": "Doc Scanner uses the camera to scan your documents. Scans stay on your device."
+          "cameraPermission": "Papercrane uses the camera to scan your documents. Scans stay on your device."
         }
       ]
     ],
